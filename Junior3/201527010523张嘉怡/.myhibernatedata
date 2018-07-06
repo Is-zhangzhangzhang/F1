@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Fri Jul 06 23:58:50 CST 2018
+genBasicCompId=true
+sessionFactoryName=cn.edu.scau.cmi.zhangjiayi.hibrenate.domain.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=
+useJavaTypes=true
+keyGenerator=increment
+genVersionTag=true
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/201527010523\u5F20\u5609\u6021/hibernate.reveng.xml
+configFile=/201527010523\u5F20\u5609\u6021/src/cn/edu/scau/cmi/zhangjiayi/hibrenate/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=BaseHibernateDAO
